@@ -18,6 +18,8 @@ SOMA = SOMA + K;
 
 imprimir(SOMA);
 ```
+Ao final do processamento, qual será o valor da variável SOMA?
+
 ### Resposta:
 <a href="https://github.com/gbcayres/Desafio-Estagio-Target-Sistemas/blob/master/desafioTarget/1.js">Código Questão 1</a>
 
